@@ -2,7 +2,7 @@
  30 Days Of Code / HackerRank
 
 
-Hhis is a repository that contains resolved issues from the 30 days of code.
+This is a repository that contains resolved issues from the 30 days of code.
 
 
 Below is the link to the site with the challenge:
