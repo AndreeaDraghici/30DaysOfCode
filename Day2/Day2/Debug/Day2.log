@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\user\Documents\GitHub\30DaysOfCode\Day2\Day2\Source.cpp(8,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\30DaysOfCode\Day2\Day2\Source.cpp(9,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\30DaysOfCode\Day2\Day2\Source.cpp(10,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Day2.vcxproj -> C:\Users\user\Documents\GitHub\30DaysOfCode\Day2\Debug\Day2.exe

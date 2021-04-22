@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\user\Documents\GitHub\30DaysOfCode\Day0\Day0\Source.c(9,9): warning C4013: 'gets' undefined; assuming extern returning int
+  Day0.vcxproj -> C:\Users\user\Documents\GitHub\30DaysOfCode\Day0\Debug\Day0.exe
