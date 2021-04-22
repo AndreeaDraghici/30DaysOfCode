@@ -15,4 +15,4 @@ https://www.hackerrank.com/domains/tutorials/30-days-of-code?filters%5Bsubdomain
 NOTE:
 
 
-For each day is found in the folder and the task is placed in a "readme" 
+For each day is found in the folder and the task is placed in a "readme.txt" 
